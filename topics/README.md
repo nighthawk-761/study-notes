@@ -6,3 +6,4 @@
 | --- | --- |
 | [Computer Networks](./computer-networks/README.md) | 인터넷 구조부터 Application·Transport Layer까지 정리한 네트워크 노트 |
 | [Operating Systems](./operating-systems/README.md) | Process, Synchronization, Memory, Scheduling을 정리한 운영체제 노트 |
+| [Cloud Computing](./cloud-computing/README.md) | 가상화, AWS 핵심 서비스, IAM과 클라우드 보안을 정리한 클라우드 노트 |

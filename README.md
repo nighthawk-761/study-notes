@@ -1,11 +1,12 @@
 # Study Notes
 
-컴퓨터 과학을 공부하며 정리한 내용을 개념 중심으로 구성한 통합 노트입니다. 강의 주차 순서보다 주제 사이의 연결과 복습 편의성을 우선합니다.
+컴퓨터 과학과 클라우드를 공부하며 정리한 내용을 개념 중심으로 구성한 통합 노트입니다. 강의 주차 순서보다 주제 사이의 연결과 복습 편의성을 우선합니다.
 
 ## 주제 목록
 
 - [Computer Networks (컴퓨터 네트워크)](topics/computer-networks/README.md)
 - [Operating Systems (운영체제)](topics/operating-systems/README.md)
+- [Cloud Computing (클라우드 컴퓨팅)](topics/cloud-computing/README.md)
 
 ## 저장소 구조
 
