@@ -1,0 +1,10 @@
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+
+# 편집기 임시 파일
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
